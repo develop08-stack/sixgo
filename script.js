@@ -1,1 +1,1 @@
-console.log("SixGo Chess loaded.");
+console.log("SixGo Chess is ready.");
